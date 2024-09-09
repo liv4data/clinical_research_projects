@@ -23,5 +23,7 @@ This database followed a simple star schema, with the main fact table called "St
 
 ![The relationship of the tables in the database are displayed in this image. The main fact table is titled "Study_Info", with related dimension tables Sponsor Info, Funding, Principal Investigator, IRB, Status, Focus, Reproductive Conditions, and Other Conditions.](https://github.com/liv4data/clinical_studies/blob/25443886fed986ed5245fc797d7c91b857436697/DB%20Relationships.png)
 
+You can view the tables used in the database here. 
+
 ## Preview Blank Database
 You can view a blank preview of the study database [here.](https://github.com/liv4data/clinical_studies/blob/25443886fed986ed5245fc797d7c91b857436697/Study%20History%20DB%20-%20slides.pdf) (_Please note: the pdf will open in the current browser window_)
