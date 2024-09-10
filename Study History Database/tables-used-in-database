@@ -172,4 +172,4 @@ Notes|Short Text
 |Protocol ID|Number|SELECT [Study_Info].[DB Protocol ID], [Study_Info].[Protocol ID] FROM Study_Info ORDER BY [Protocol ID];|
 Task Type|Short Text|"Startup"; "Regulatory"; "Study Conduct"; "Recruiting"; "Correspondence"; "Institution"; "Other"
 Task Date|Date/Time	
-Comments|Long Text
+Comments|Long Text|
