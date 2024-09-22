@@ -27,3 +27,6 @@ You can view the tables used in the database [here.](https://github.com/liv4data
 
 ## Preview Blank Database
 You can view a blank preview of the study database [here.](https://github.com/liv4data/clinical_studies/blob/6f315887c3aedb49585a8937e70ef9cb486f7e80/Study%20History%20Database/preview-of-database.pdf) (_Please note: the pdf will open in the current browser window_)
+
+## Next Steps
+As this is an ongoing work-in-progress, the database itself is not complete. Due to staffing knowledge, it is not efficient to continue developing and maintaining the database through Microsoft Access. The next step is to create the database via REDCap, as staff members are familiar with the data entry steps there. 
